@@ -14,6 +14,6 @@
 4WSロボットを無重力みたいに動かそうとしているファイルです．外力からロボットの加速度と進行方向を計算して動かします．
 
 # ライセンス
-MITライセンスのもと利用が許可されます．
+[MITライセンス](https://github.com/shimotoriharuki/4WS_Simulator/blob/master/LICENSE)のもと利用が許可されます．
 
-© 2022 SHIMOTORI Haruki.
+© 2022 Haruki SHIMOTORI.
